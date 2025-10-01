@@ -8,7 +8,7 @@
             <title>Version 2.0.47</title>
             <description>UI/UX updates and improvements.</description>
             <pubDate>Thur, 19/09/2025 00:15:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.47" sparkle:os="iOS" sparkle:minimumSystemVersion="2.0.30" />
+            <enclosure url="https://apps.apple.com/app/quodari/id1567341176" sparkle:version="2.0.47" sparkle:os="iOS" sparkle:minAppVersion="2.0.30" />
         </item>
     </channel>
 </rss>
