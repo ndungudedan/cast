@@ -13,9 +13,9 @@
                 sparkle:version="2.2.4"
                 sparkle:shortVersionString="2.2.4"
                 sparkle:os="android" />
-            <!-- <sparkle:tags>
+            <sparkle:tags>
                <sparkle:criticalUpdate/>
-            </sparkle:tags> -->
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
