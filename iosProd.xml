@@ -12,7 +12,7 @@
 
             <enclosure
                 url="https://apps.apple.com/app/quodari/id1567341176"
-                sparkle:version="3742"
+                sparkle:version="2.2.4"
                 sparkle:shortVersionString="2.2.4"
                 sparkle:os="iOS" />
         </item>
