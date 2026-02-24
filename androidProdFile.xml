@@ -9,10 +9,7 @@
             <title>Version 2.2.4</title>
 
             <description>
-                <![CDATA[
-UI/UX improvements and fixes
-New Features
-                ]]>
+                Minor updates and improvements.
             </description>
 
             <pubDate>Sat, 21 Feb 2026 10:00:00 +0000</pubDate>
@@ -23,9 +20,9 @@ New Features
                 sparkle:shortVersionString="2.2.4"
                 sparkle:os="android" />
 
-            <sparkle:tags>
+            <!-- <sparkle:tags>
                <sparkle:criticalUpdate/>
-            </sparkle:tags>
+            </sparkle:tags> -->
 
         </item>
 
