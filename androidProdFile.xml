@@ -24,7 +24,7 @@ New Features
                 sparkle:os="android" />
 
             <sparkle:tags>
-                <sparkle:criticalUpdate/>
+               <!-- <sparkle:criticalUpdate/> -->
             </sparkle:tags>
 
         </item>
